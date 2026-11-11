@@ -22,6 +22,7 @@ TihiAi je lokalna aplikacija za rad s dokumentima, projektima i lokalnim AI mode
 
 - lokalni modeli **Qwen3.5 4B i 9B**
 - izrada i uređivanje dokumenata, PDF i Office alati
+- biblioteka dokumenata sa sortiranjem, mapama, oznakama i kolekcijama
 - **38 profesionalnih predložaka** bez financijskih predložaka
 - klijenti, ponavljanja dokumenata/zadataka i kalendar obveza
 - masovna izrada dokumenata iz baze klijenata
@@ -41,10 +42,10 @@ Instalater trenutačno **nije digitalno potpisan**, pa Windows SmartScreen može
 
 | | |
 |---|---|
-| Verzija | **0.9.54** |
-| Datoteka | `TihiAi-Setup-0.9.54.exe` |
-| Veličina | 210.039.072 bajta |
-| SHA-256 | `c84bbefd321f371b64ccc583fb8de2a7589b56a484a41416fb0911947ee427e7` |
+| Verzija | **0.9.55** |
+| Datoteka | `TihiAi-Setup-0.9.55.exe` |
+| Veličina | 210.042.832 bajta |
+| SHA-256 | `988c85aa0662e4595ebe7d9ed273343cfa4d9d740c28c9987ea2d6dd5ecb1be3` |
 | Platforma | Windows 11 x64 |
 
 > Najnovija verzija i njezin SHA-256 uvijek su navedeni u opisu odgovarajućeg releasea.
@@ -54,7 +55,7 @@ Instalater trenutačno **nije digitalno potpisan**, pa Windows SmartScreen može
 U PowerShellu:
 
 ```powershell
-Get-FileHash .\TihiAi-Setup-0.9.54.exe -Algorithm SHA256
+Get-FileHash .\TihiAi-Setup-0.9.55.exe -Algorithm SHA256
 ```
 
 Dobiveni hash mora odgovarati hashu iz opisa releasea.
