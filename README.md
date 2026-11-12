@@ -45,8 +45,8 @@ Instalater trenutačno **nije digitalno potpisan**, pa Windows SmartScreen može
 |---|---|
 | Verzija | **0.9.58** |
 | Datoteka | `TihiAi-Setup-0.9.58.exe` |
-| Veličina | 210.047.180 bajta |
-| SHA-256 | `41a06b30279c6cb77f4918c0ce64cb26e2b38a6a61fe2bafa0a5c69d987032ce` |
+| Veličina | 210.047.043 bajta |
+| SHA-256 | `0f53f6bcd6416b54ed2a1ce5a9068327ef61844a00a77c17c3813e0e09f9fbc7` |
 | Platforma | Windows 11 x64 |
 
 > Najnovija verzija i njezin SHA-256 uvijek su navedeni u opisu odgovarajućeg releasea.
