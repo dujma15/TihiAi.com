@@ -43,10 +43,10 @@ Instalater trenutačno **nije digitalno potpisan**, pa Windows SmartScreen može
 
 | | |
 |---|---|
-| Verzija | **0.9.59** |
-| Datoteka | `TihiAi-Setup-0.9.59.exe` |
-| Veličina | 210.050.750 bajta |
-| SHA-256 | `76b044cacc50acd13f2f8f36c8f531c09ff8d3f641d388547ca033d9f44e7bcd` |
+| Verzija | **0.9.60** |
+| Datoteka | `TihiAi-Setup-0.9.60.exe` |
+| Veličina | 210.051.129 bajta |
+| SHA-256 | `bb88d8353ebe9c33613ab56388dd16d3a3fac02a4826046259b44fc602aadaa3` |
 | Platforma | Windows 11 x64 |
 
 > Najnovija verzija i njezin SHA-256 uvijek su navedeni u opisu odgovarajućeg releasea.
@@ -56,7 +56,7 @@ Instalater trenutačno **nije digitalno potpisan**, pa Windows SmartScreen može
 U PowerShellu:
 
 ```powershell
-Get-FileHash .\TihiAi-Setup-0.9.59.exe -Algorithm SHA256
+Get-FileHash .\TihiAi-Setup-0.9.60.exe -Algorithm SHA256
 ```
 
 Dobiveni hash mora odgovarati hashu iz opisa releasea.
